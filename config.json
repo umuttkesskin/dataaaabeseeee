@@ -1,0 +1,16 @@
+{
+    "bot": {
+        "owners": ["823935098096713749", "823935098096713749"],
+        "prefix": ["!", "b!"],
+        "footer": "qweqweqqweqe",
+        "status": "BoranGkdn ❤️ 4004"
+    },
+    "Guild": {
+        "OwnerRole": "938861911498428427",
+        "GuildID": "963737569810579456"
+    },
+    "channels": {
+        "VoiceChannelID": "963737569810579461",
+        "logchannel": "963737569810579459"
+    }
+}
